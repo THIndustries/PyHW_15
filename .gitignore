@@ -1,0 +1,6 @@
+venv
+directory_contents.log
+function.log
+logg_from_decorator.log
+my_logger.log
+rename_files.log
